@@ -5,10 +5,10 @@ This C++ project involved researching and implementing Monte Carlo simulation te
 Overview
 The key components developed include:
 
-Classes for stochastic process modeling such as Black-Scholes, Ornstein-Uhlenbeck, and square root diffusion
-Path generation frameworks using Brownian bridges and correlated random variates
-Valuing European options through variance reduction techniques
-An extensible architecture for adding new pricing models and methods
+Classes for stochastic process modeling such as Black-Scholes, Ornstein-Uhlenbeck, and square root diffusion.
+Path generation frameworks using Brownian bridges and correlated random variates.
+Valuing European options through variance reduction techniques.
+An extensible architecture for adding new pricing models and methods.
 The project showcases research skills in quantitative finance, C++ programming, and computational methods for derivative pricing.
 
 Stochastic Process Modeling
